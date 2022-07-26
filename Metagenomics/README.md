@@ -1,7 +1,6 @@
 # 🧬 `Metagenomics`
 
-
-The metagenomic pipeline section of the new atlantis github
+> The metagenomic pipeline section of the new atlantis github
 
 ## 🗂 Project Organization
 ------------
