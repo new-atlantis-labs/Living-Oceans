@@ -2,6 +2,8 @@
 
 > The metagenomic pipeline section of the new atlantis github
 
+[![New Atlantis Discord](https://badgen.net/discord/members/newatlantis)](https://discord.gg/newatlantis)
+
 ## 🗂 Project Organization
 ------------
 
