@@ -3,7 +3,7 @@
 
 The metagenomic pipeline section of the new atlantis github
 
-Project Organization
+## 🗂 Project Organization
 ------------
 
     ├── LICENSE
