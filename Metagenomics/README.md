@@ -1,4 +1,4 @@
-Metagenomics
+# 🧬 `Metagenomics`
 ==============================
 
 The metagenomic pipeline section of the new atlantis github
