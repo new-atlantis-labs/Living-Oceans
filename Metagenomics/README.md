@@ -1,5 +1,5 @@
 # 🧬 `Metagenomics`
-==============================
+
 
 The metagenomic pipeline section of the new atlantis github
 
@@ -51,7 +51,3 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
-
---------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
