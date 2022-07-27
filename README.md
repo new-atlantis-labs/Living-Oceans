@@ -8,7 +8,7 @@ Welcome to the Oceanomics tools being built by New Atlantis
 [![GitLab last commit](https://badgen.net/gitlab/last-commit/NickBusey/HomelabOS/)](https://gitlab.com/NickBusey/HomelabOS/-/commits)
 [![GitLab issues open](https://badgen.net/gitlab/open-issues/gitlab-org/gitlab-runner)](https://gitlab.com/gitlab-org/gitlab-runner)
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
