@@ -8,3 +8,4 @@ Welcome to the Oceanomics tools being built by New Atlantis
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/new-atlantis-dao/Oceanomics/graphs/commit-activity)
 
+![](https://github.com/new-atlantis-dao/presentations/blob/main/Watermarked_Orcas_for_github_paulNicklen.png)
