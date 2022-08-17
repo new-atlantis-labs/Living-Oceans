@@ -1,3 +1,7 @@
+# ==`Check Out Our GitCoin Grant!`==
+![Gitcoin](https://img.shields.io/badge/GitCoin-New%20Atlantis-F3587D)
+`must be updated with gitcoin grant link`
+
 # 🌊 `Oceanomics`
 
 Welcome to the Oceanomics tools being built by New Atlantis
