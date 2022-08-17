@@ -1,4 +1,4 @@
-# ==`Check Out Our GitCoin Grant!`==
+# `Check Out Our GitCoin Grant!`
 ![Gitcoin](https://img.shields.io/badge/GitCoin-New%20Atlantis-F3587D)
 `must be updated with gitcoin grant link`
 
