@@ -1,3 +1,7 @@
+# 🪙 `Check Out Our GitCoin Grant!` 🪙
+![Gitcoin](https://img.shields.io/badge/GitCoin-New%20Atlantis-F3587D)
+`must be updated with gitcoin grant link`
+
 # 🧬 `Metagenomics`
 
 > The metagenomic pipeline section of the new atlantis github. An easy-to-use pipeline for generating metagenomic data on different ocean samples.
