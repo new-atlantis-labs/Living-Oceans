@@ -1,6 +1,6 @@
 # `Check Out Our GitCoin Grant!`
-![Gitcoin](https://img.shields.io/badge/GitCoin-New%20Atlantis-F3587D)
-`must be updated with gitcoin grant link`
+[![Gitcoin](https://img.shields.io/badge/GitCoin-New%20Atlantis-F3587D)](https://gitcoin.co/grants/7126/new-atlantis-ocean-biodiversity-restoration-resci)
+
 
 # 🌊 `Living Oceans`
 
