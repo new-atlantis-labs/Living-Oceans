@@ -25,8 +25,7 @@ We know this is an enormous, ambitious undertaking.  We don't think we can do th
 Our goal is to make investing in the protection and expansion of sustainable marine ecosystems an extremely profitable global growth opportunity that can generate financial wealth for humans by improving the ecological health of the oceans.  
 
 
-
-We invite the global ocean community to come collaborate with us on Twitter or Discord 
+We invite the global ocean community to come collaborate with us on [Twitter](https://twitter.com/NewAtlantisDAO) or [Discord](https://discord.gg/newatlantis)
 
 >[![Discord](https://img.shields.io/badge/Discord-New%20Atlantis-7289da)](https://discord.gg/newatlantis)
 [![Twitter](https://img.shields.io/badge/Twitter-%40NewAtlantisDAO-00acee)](https://twitter.com/NewAtlantisDAO)
