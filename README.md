@@ -4,7 +4,7 @@
 
 # 🌊 `Living Oceans`
 
-Welcome to the Oceanomics tools being built by New Atlantis
+Welcome to the Living Oceans Project
 
 ## 📲 Contact
 Please reach out with any comments, concerns, or discussion regarding this repo.
