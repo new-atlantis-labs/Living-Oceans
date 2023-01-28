@@ -27,7 +27,7 @@ The reference formats for how we build our pipelines for how we build pipelines 
 ## ⚙️ Installation
 You can set up the living oceans repo on your workstation at home in one line!
 ```
-git clone https://github.com/new-atlantis-dao/Oceanomics/tree/main/Metagenomics && cd Metagenomics && rm -r .git
+git clone https://github.com/new-atlantis-dao/Living-Oceans.git
 ```
 Congratulations, you can now start using `NALOR`.
 
