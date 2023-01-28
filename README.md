@@ -34,7 +34,7 @@ Congratulations, you can now start using `NALOR`.
 ## 📯 Tutorial
 `NALOR` can be used to explore  a local section of ocean's planktonic network. A written tutorial on how to use the `NALOR` pipeline will be released at a later date.
 
-> ![Tutorial](https://img.shields.io/badge/LOMAP-Tutorial-%23d8b365)
+> ![Tutorial](https://img.shields.io/badge/NALOR-Tutorial-%23d8b365)
 
 
 
