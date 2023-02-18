@@ -1,0 +1,10 @@
+# external requirements
+Bio
+ete3
+taxonomy-ranks
+plotly
+seaborn
+matplotlib
+taxonomy_ranks
+configparser
+
